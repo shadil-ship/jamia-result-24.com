@@ -167,7 +167,7 @@
 
         document.getElementById("studentTable").style.display = "table";
         document.getElementById("notFound").style.display = "none";
-      } else {
+      } else {                                                                            
         document.getElementById("studentTable").style.display = "none";
         document.getElementById("studentNameHeader").style.display = "none";
         document.getElementById("notFound").style.display = "block";
